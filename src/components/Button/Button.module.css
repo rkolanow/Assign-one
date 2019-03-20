@@ -1,0 +1,39 @@
+.button {
+    border: 0;
+    border-radius: 0px;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.primary {
+    color: #fff;
+    background: darkblue;
+}
+
+.buttonup {
+    background: transparent;
+    border: 0;
+    padding: 0;
+    outline: 0;
+    cursor: pointer;
+    align-content: center;
+    margin-bottom: 5px;
+    font-size: 24px;
+
+}
+
+.buttondown {
+    background: transparent;
+    border: 0;
+    padding: 0;
+    outline: 0;
+    cursor: pointer;
+    align-content: center;
+    margin-bottom: 5px;
+    font-size: 24px;
+
+}
+
+
+

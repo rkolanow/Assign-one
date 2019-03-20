@@ -1,0 +1,34 @@
+.card {
+    background-color: white;
+    border-radius: 0px;
+    border: 0px;
+    margin-left: 15px;
+    margin-top: 15px;
+    text-align: center;
+    position: static;
+    
+}
+
+.counter {
+   
+    width: 500px;
+    height: 700;
+    
+  
+}
+
+.inventory {
+    width: 500px;
+    height:300px;
+    margin-top: 15px;
+    
+
+}
+
+.form {
+    width: 500px;
+    height:300px;
+    margin-top: 15px;
+    
+
+}

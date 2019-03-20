@@ -1,0 +1,32 @@
+.counter {
+
+    text-align: "center";
+    font-size: large;
+    
+    }
+    
+    
+    .buttonup {
+        background: transparent;
+        border: 0;
+        padding: 0;
+        outline: 0;
+        cursor: pointer;
+        align-content: center;
+        margin-bottom: 5px;
+        font-size: 24px;
+    
+    }
+    
+    .buttondown {
+        background: transparent;
+        border: 0;
+        padding: 0;
+        outline: 0;
+        cursor: pointer;
+        align-content: center;
+        margin-bottom: 5px;
+        font-size: 24px;
+    
+    }
+    
